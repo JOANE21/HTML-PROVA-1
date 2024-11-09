@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="br">
+<head>
+    A <h1>PROVA HTMl turma X</h1>
+    <title>Formulário</title>
+</head>
+<h1><mark>Formulário de Contato</mark></h1>
+
+<form action="enviar.php" method="post">
+    <label for="nome"><strong>Nome:</strong></label>
+    <input type="text" id="nome" name="nome" required>
+    <br>
+    <label for="endereço"><strong>endereço:</strong></label>
+    <input type="endereço completo" id="email" name="email" required>
+    <br>
+    <small>Insira seu nome completo.</small>
+    <small>Insira Nome válido, exemplo: <em>Joane vieira e silva</em>.</small>
+    <br><br>
+
+    <label for="name"><strong>name:</strong></label>
+    <input type="name" id="email" name="email" required>
+    <br>
+    <small>Insira Nome válido, exemplo: <em>Joane vieira e silva</em>.</small>
+    <br><br>
+
+<small>insira um endereço válido, exemplo:
+    <em>email@dominio.com</em>.</small>
+    <br><br>
+    <label for="mensagem"><big><strong>Mensagem:</strong></big></label><br>
+    <textarea id="mensagem" name="mensagem" required></textarea>
+    <br>
+    <small>Escreva sua mensagem detalhada.</small>
+    <br><br>
+    <title>Índice HTML5 </title>
+</head>
+<body>
+    <<h1>Formulário</h1>
+    <h2>Capitulos os melhores</h2>
+
+        <li> A. Subseção carros</li>
+        
+    
+        
+</body>
+</html>
+    <h2>Listas Ordenadas</h2>
+
+        <li>Ninja Gaiden</li>
+        <li>Mario: Lost Levels</li>
+        <li>SNES</li>
+        <li>Playstation</li>
+        </li>
+    </ol>
+</body>
+</html>
