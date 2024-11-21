@@ -12,10 +12,10 @@
         <h2><mark style="background-color: blue; color: white;">Formulário</mark></h2>
         <form>
             <label>Nome:</label><br>
-            <input type="text" placeholder="Nome completo do Joane Vieira"><br><br>
+            <input type="text" placeholder="joane vieira"><br><br>
 
             <label>Nome da Mãe:</label><br>
-            <input type="text" placeholder="Nome completo da Josiene Vieira"><br><br>
+            <input type="text" placeholder="josiene vieira"><br><br>
 
             <label>Telefone:</label><br>
             <input type="tel" placeholder="(61) 98285-XXXX"><br><br>
